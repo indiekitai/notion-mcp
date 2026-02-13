@@ -17,9 +17,9 @@
 ## 安装
 
 ```bash
-pip install notion-mcp
+pip install indiekit-notion-mcp
 # 或
-uv pip install notion-mcp
+uv pip install indiekit-notion-mcp
 ```
 
 ## 配置
